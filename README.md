@@ -6,7 +6,7 @@ Welcome to the React Developer Assesment! Please follow the instructions below t
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Bid-Liquidation/react-developer-assesment.git
    cd react-assesment
    ```
 2. Install dependencies
